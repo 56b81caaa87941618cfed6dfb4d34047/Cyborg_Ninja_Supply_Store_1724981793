@@ -25,34 +25,36 @@
         <!-- Content -->
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
-              Embrace the Pirate's Life, Ye Scurvy Dogs!
-            </div>
+            <p class="text-lg text-green-300 mb-4">Cowabunga, Dudes! Shell-ebrate the Turtle Power!</p>
+          </div>
           </div>
           <div class="flex" id="content-title-container">
-              Set Sail for Adventure, Become a Legend of the Seven Seas
+            <h2 class="h2 font-bold text-4xl md:text-5xl text-white mb-4">
+              Radical Adventures in the Half-Shell
             </h2>
           </div>
           <div class="flex" id="content-body-container">
-              Harness the power of the high seas and pirate's cunning. From cutlasses forged in Davy Jones' locker to enchanted spyglasses, we offer the ultimate booty for the daring buccaneer.
+            <p class="text-xl text-green-100 mb-8">
+              From sewer-surfing to pizza-powered missions, we've got the gnarliest gear for every turtle-tastic situation. Whether you're a master of ninjutsu or just love to party, dude, we've got your shell covered!
             </p>
-            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/719c8239b3dd442e8b2c673a827ab4d0.jpeg" alt="Cosmic Warrior" class="w-full h-auto mb-8 rounded-lg" />
-            <div id="santa-email-form" class="mt-8 bg-white bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
-              <h3 class="text-2xl font-bold text-white mb-4">Send a Message in a Bottle</h3>
+            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/719c8239b3dd442e8b2c673a827ab4d0.jpeg" alt="Cyborg Ninja" class="w-full h-auto mb-8 rounded-lg" />
+            <div id="santa-email-form" class="mt-8 bg-green-800 bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
+              <h3 class="text-2xl font-bold text-green-300 mb-4">Send a Message to Master Splinter</h3>
               <form @submit.prevent="submitToSanta" class="space-y-4">
                 <div>
-                  <label for="name" class="block text-sm font-medium text-white">Yer Pirate Name</label>
-                  <input type="text" id="name" v-model="santaForm.name" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
+                  <label for="name" class="block text-sm font-medium text-green-300">Your Turtle Name</label>
+                  <input type="text" id="name" v-model="santaForm.name" class="mt-1 block w-full rounded-md bg-green-700 bg-opacity-20 border-transparent focus:border-green-500 focus:bg-green-600 focus:ring-0 text-green-100" required>
                 </div>
                 <div>
-                  <label for="email" class="block text-sm font-medium text-white">Yer Crow's Nest Signal</label>
-                  <input type="email" id="email" v-model="santaForm.email" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
+                  <label for="email" class="block text-sm font-medium text-green-300">Your Shell Signal</label>
+                  <input type="email" id="email" v-model="santaForm.email" class="mt-1 block w-full rounded-md bg-green-700 bg-opacity-20 border-transparent focus:border-green-500 focus:bg-green-600 focus:ring-0 text-green-100" required>
                 </div>
                 <div>
-                  <label for="message" class="block text-sm font-medium text-white">Yer Message for the Captain</label>
-                  <textarea id="message" v-model="santaForm.message" rows="4" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required></textarea>
+                  <label for="message" class="block text-sm font-medium text-green-300">Your Message for the Sensei</label>
+                  <textarea id="message" v-model="santaForm.message" rows="4" class="mt-1 block w-full rounded-md bg-green-700 bg-opacity-20 border-transparent focus:border-green-500 focus:bg-green-600 focus:ring-0 text-green-100" required></textarea>
                 </div>
-                <button type="submit" class="w-full bg-gradient-to-r from-red-500 to-yellow-500 hover:from-red-600 hover:to-yellow-600 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:scale-105">
-                  Cast Yer Message to the Sea
+                <button type="submit" class="w-full bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:scale-105">
+                  Send Your Turtle Power!
                 </button>
               </form>
             </div>
@@ -80,7 +82,7 @@ export default {
   methods: {
     // Santa form submission method
     submitToSanta() {
-      console.log('Casting message to the sea:', this.santaForm);
+      console.log('Sending turtle power:', this.santaForm);
       // Add your form submission logic here
       // Reset form after submission
       this.santaForm = { name: '', email: '', message: '' };
