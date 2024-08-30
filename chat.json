@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors do you associate with a cyborg ninja aesthetic?\", \"option1\": \"Dark tones with neon accents\", \"option2\": \"Metallic shades with a mix of black and red\"}, {\"question 2\": \"Would you like the color scheme to apply to specific elements like the background, buttons, or text?\", \"option1\": \"Yes, to the entire app\", \"option2\": \"Only to certain elements like buttons and headers\"}], \"input_token_count\": 275, \"output_token_count\": 107, \"time_taken\": \"0:00:01.384584\"}",
+        "message_id": "guest30082024044021",
+        "timestamp": "30082024044026",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll update the color scheme to a cyborg ninja theme.",
         "message_id": "guest30082024044021",
