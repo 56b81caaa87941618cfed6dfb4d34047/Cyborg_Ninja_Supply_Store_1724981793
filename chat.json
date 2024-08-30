@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Image of a cyborg ninja\", \"checked\": true}, {\"feature\": \"Pirate-themed graphics\", \"checked\": false}, {\"feature\": \"Interactive hadoken button\", \"checked\": false}, {\"feature\": \"Email form for Santa\", \"checked\": false}, {\"feature\": \"Blue steel color scheme\", \"checked\": true}], \"input_token_count\": 566, \"output_token_count\": 83, \"time_taken\": \"0:00:00.946629\"}",
+        "message_id": "guest30082024044620",
+        "timestamp": "30082024044627",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements or characteristics do you want the cyborg ninja image to feature?\", \"option1\": \"High-tech armor and weapons\", \"option2\": \"Traditional ninja elements with a cyborg twist\"}, {\"question 2\": \"Would you like the cyborg ninja to have a specific pose or action in the image?\", \"option1\": \"In a battle stance\", \"option2\": \"In a stealthy position\"}], \"input_token_count\": 612, \"output_token_count\": 100, \"time_taken\": \"0:00:01.322172\"}",
         "message_id": "guest30082024044620",
