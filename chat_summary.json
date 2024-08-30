@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1724981795",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
         "role": "user",
-        "content": "add a hadoken button",
-        "timestamp": "30082024021339",
-        "message_id": "guest30082024021339"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'm adding a hadoken button as requested.",
-        "timestamp": "30082024021340",
-        "message_id": "guest30082024021339"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific action do you want the hadoken button to perform when pressed?\", \"option1\": \"Execute a special attack animation\", \"option2\": \"Trigger a sound effect\"}, {\"question 2\": \"How do you envision the design of the hadoken button?\", \"option1\": \"A circular button with a glowing effect\", \"option2\": \"A square button with traditional martial arts motifs\"}], \"input_token_count\": 288, \"output_token_count\": 95, \"time_taken\": \"0:00:01.847673\"}",
-        "timestamp": "30082024021345",
-        "message_id": "guest30082024021339"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a combo training feature to practice hadoken moves\", \"checked\": false}, {\"feature\": \"Implement animations for the hadoken button press\", \"checked\": true}, {\"feature\": \"Include sound effects for the hadoken action\", \"checked\": false}, {\"feature\": \"Display a score counter for successful hadoken attempts\", \"checked\": true}, {\"feature\": \"Create a tutorial section for using the hadoken effectively\", \"checked\": false}], \"input_token_count\": 242, \"output_token_count\": 106, \"time_taken\": \"0:00:01.818656\"}",
-        "timestamp": "30082024021352",
-        "message_id": "guest30082024021339"
-    },
-    {
-        "role": "user",
-        "content": "add an email form to santa",
-        "timestamp": "30082024021517",
-        "message_id": "guest30082024021516"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I will add an email form for Santa.",
-        "timestamp": "30082024021517",
-        "message_id": "guest30082024021516"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What information do you want to collect in the email form?\", \"option1\": \"Recipient's name and email address\", \"option2\": \"Message content and sender's email address\"}, {\"question 2\": \"How would you like the email form to be designed? \", \"option1\": \"Simple and minimalistic\", \"option2\": \"Colorful and engaging with animations\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.346175\"}",
-        "timestamp": "30082024021522",
-        "message_id": "guest30082024021516"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an email input field for user input\", \"checked\": true}, {\"feature\": \"Include a subject line for the email\", \"checked\": false}, {\"feature\": \"Attach a send button with functionality\", \"checked\": true}, {\"feature\": \"Show a confirmation message upon sending the email\", \"checked\": false}, {\"feature\": \"Display error messages for incomplete forms\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 96, \"time_taken\": \"0:00:01.291796\"}",
-        "timestamp": "30082024021529",
-        "message_id": "guest30082024021516"
+        "content": "change the image to a hadoken fireball",
+        "message_id": "guest30082024022131",
+        "timestamp": "30082024022131",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Okay, I'll change the image to a hadoken fireball.",
+        "message_id": "guest30082024021559",
         "timestamp": "30082024021600",
-        "message_id": "guest30082024021559"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an email input field for user input\", \"checked\": true}, {\"feature\": \"Include a subject line for the email\", \"checked\": false}, {\"feature\": \"Attach a send button with functionality\", \"checked\": true}, {\"feature\": \"Show a confirmation message upon sending the email\", \"checked\": false}, {\"feature\": \"Display error messages for incomplete forms\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 96, \"time_taken\": \"0:00:01.291796\"}",
+        "message_id": "guest30082024021516",
+        "timestamp": "30082024021529",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What information do you want to collect in the email form?\", \"option1\": \"Recipient's name and email address\", \"option2\": \"Message content and sender's email address\"}, {\"question 2\": \"How would you like the email form to be designed? \", \"option1\": \"Simple and minimalistic\", \"option2\": \"Colorful and engaging with animations\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.346175\"}",
+        "message_id": "guest30082024021516",
+        "timestamp": "30082024021522",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add an email form for Santa.",
+        "message_id": "guest30082024021516",
+        "timestamp": "30082024021517",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add an email form to santa",
+        "message_id": "guest30082024021516",
+        "timestamp": "30082024021517",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a combo training feature to practice hadoken moves\", \"checked\": false}, {\"feature\": \"Implement animations for the hadoken button press\", \"checked\": true}, {\"feature\": \"Include sound effects for the hadoken action\", \"checked\": false}, {\"feature\": \"Display a score counter for successful hadoken attempts\", \"checked\": true}, {\"feature\": \"Create a tutorial section for using the hadoken effectively\", \"checked\": false}], \"input_token_count\": 242, \"output_token_count\": 106, \"time_taken\": \"0:00:01.818656\"}",
+        "message_id": "guest30082024021339",
+        "timestamp": "30082024021352",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific action do you want the hadoken button to perform when pressed?\", \"option1\": \"Execute a special attack animation\", \"option2\": \"Trigger a sound effect\"}, {\"question 2\": \"How do you envision the design of the hadoken button?\", \"option1\": \"A circular button with a glowing effect\", \"option2\": \"A square button with traditional martial arts motifs\"}], \"input_token_count\": 288, \"output_token_count\": 95, \"time_taken\": \"0:00:01.847673\"}",
+        "message_id": "guest30082024021339",
+        "timestamp": "30082024021345",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm adding a hadoken button as requested.",
+        "message_id": "guest30082024021339",
+        "timestamp": "30082024021340",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a hadoken button",
+        "message_id": "guest30082024021339",
+        "timestamp": "30082024021339",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "30082024022131",
+        "message_id": "guest30082024022131"
     }
 ]
