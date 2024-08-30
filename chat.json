@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the image to a hadoken fireball",
+        "message_id": "guest30082024022131",
+        "timestamp": "30082024022131",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll change the image to a hadoken fireball.",
         "message_id": "guest30082024021559",
