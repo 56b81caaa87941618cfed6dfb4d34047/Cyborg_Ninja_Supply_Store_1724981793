@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I'll change the picture to a cyborg ninja.",
+        "message_id": "guest30082024044620",
+        "timestamp": "30082024044621",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the picture to a cyborg ninja",
         "message_id": "guest30082024044620",
