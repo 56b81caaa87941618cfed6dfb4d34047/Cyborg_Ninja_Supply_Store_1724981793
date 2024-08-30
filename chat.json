@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on making the image turtle themed.",
+        "message_id": "guest30082024054529",
+        "timestamp": "30082024054531",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be turtle themed",
         "message_id": "guest30082024054529",
