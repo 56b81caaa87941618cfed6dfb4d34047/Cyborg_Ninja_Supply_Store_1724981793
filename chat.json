@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I'll change the image to a Kamehameha.",
+        "message_id": "guest30082024022251",
+        "timestamp": "30082024022253",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be a kamehameha",
         "message_id": "guest30082024022251",
