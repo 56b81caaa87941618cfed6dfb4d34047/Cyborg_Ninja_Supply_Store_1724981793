@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text elements do you want to be pirate-themed? (e.g., headings, buttons, body text)\", \"option1\": \"All headings and buttons\", \"option2\": \"Just the body text\"}, {\"question 2\": \"Do you have any particular pirate phrases or terminology in mind that you'd like to incorporate?\", \"option1\": \"Yes, I have specific phrases\", \"option2\": \"No, I want general pirate language\"}], \"input_token_count\": 607, \"output_token_count\": 105, \"time_taken\": \"0:00:01.424680\"}",
+        "message_id": "guest30082024054638",
+        "timestamp": "30082024054647",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change teh text to be pirate themed",
         "message_id": "guest30082024054638",
