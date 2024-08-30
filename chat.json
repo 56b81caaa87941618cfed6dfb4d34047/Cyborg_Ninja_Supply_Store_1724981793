@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific turtle-themed elements would you like to see in the text style?\", \"option1\": \"Include turtle shell patterns\", \"option2\": \"Incorporate green colors and aquatic themes\"}, {\"question 2\": \"Do you want the turtle-themed text to match the existing pirate theme or create a distinct style?\", \"option1\": \"Match the existing pirate theme\", \"option2\": \"Create a distinct turtle-themed style\"}], \"input_token_count\": 607, \"output_token_count\": 101, \"time_taken\": \"0:00:01.184503\"}",
+        "message_id": "guest30082024050552",
+        "timestamp": "30082024050556",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I\u2019ll transform the text to a turtle theme.",
         "message_id": "guest30082024050552",
