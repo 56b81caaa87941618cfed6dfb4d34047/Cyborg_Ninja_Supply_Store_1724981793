@@ -4,5 +4,6 @@
     "project_description": "supply store for a cyborg ninja",
     "creation_time": "2024-08-29 21:36:33.091240",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image showcases a vibrant color scheme dominated by shades of pink, purple, and black, depicting a surreal, otherworldly landscape with celestial bodies and reflective water. The style is a blend of science fiction and fantasy, with a dreamlike and ethereal atmosphere."
 }
