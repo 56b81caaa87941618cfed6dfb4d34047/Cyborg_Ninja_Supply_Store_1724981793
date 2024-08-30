@@ -1,10 +1,3 @@
-<!--
-INSTRUCTION: Summary: HTML file that describes the header section including:
-INSTRUCTION: 1. Site branding with a logo on the left.
-INSTRUCTION: 2. Desktop navigation menu with links to different pages in the middle.
-INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
--->
-
 <template>
   <header class="w-full z-30" id="header-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-opacity-30 bg-pink-900 backdrop-filter backdrop-blur-lg">
@@ -12,7 +5,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
           <a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip">
-            <img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar">
+            <img id="logo-image" class="max-w-none" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/32230010a977402a9ecc5c6a9b7336cf.jpeg" width="38" height="38" alt="Stellar">
           </a>
         </div>
 
