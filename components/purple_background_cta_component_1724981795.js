@@ -6,12 +6,12 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
 <template>
   <section id="cta-section-container">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden bg-gradient-to-br from-pink-400 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg">
+      <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden bg-gradient-to-br from-pink-500 to-purple-700 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg border border-pink-300 border-opacity-20">
 
         <!-- Radial gradient -->
         <div id="radial-gradient" class="absolute flex items-center justify-center top-0 -translate-y-1/2 left-1/2 -translate-x-1/2 pointer-events-none -z-10 w-1/2 aspect-square" aria-hidden="true">
-          <div id="radial-gradient-outer" class="bg-pink-500 absolute inset-0 translate-z-0 rounded-full blur-[120px] opacity-50"></div>
-          <div id="radial-gradient-inner" class="absolute w-1/3 h-1/3 translate-z-0 rounded-full blur-[60px] bg-purple-400"></div>
+          <div id="radial-gradient-outer" class="bg-pink-600 absolute inset-0 translate-z-0 rounded-full blur-[120px] opacity-60"></div>
+          <div id="radial-gradient-inner" class="absolute w-1/3 h-1/3 translate-z-0 rounded-full blur-[60px] bg-purple-500"></div>
         </div>
 
         <!-- Blurred shape -->
@@ -30,21 +30,21 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
         <!-- Content -->
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
-            <div id="content-subtitle-text" class="flex-1 font-medium text-lg bg-clip-text pb-3 text-transparent bg-gradient-to-r from-pink-300 to-purple-300">
+            <div id="content-subtitle-text" class="flex-1 font-medium text-lg bg-clip-text pb-3 text-transparent bg-gradient-to-r from-pink-200 to-purple-200">
               Embrace the Cosmic Warrior Within
             </div>
           </div>
           <div class="flex" id="content-title-container">
-            <h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 text-4xl font-bold bg-gradient-to-r from-pink-200 via-purple-200 to-pink-200">
+            <h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 text-4xl font-bold bg-gradient-to-r from-pink-100 via-purple-100 to-pink-100">
               Transcend Reality, Become Legend
             </h2>
           </div>
           <div class="flex" id="content-body-container">
-            <p id="content-body" class="flex-1 text-lg mb-8 text-pink-100">
+            <p id="content-body" class="flex-1 text-lg mb-8 text-pink-50">
               Harness the power of celestial energies and cutting-edge tech. From stardust-infused blades to quantum stealth devices, we offer the ultimate arsenal for the cosmic cyber-warrior.
             </p>
           </div>
-          <a id="content-cta-button" href="#0" class="btn transition duration-300 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-300 to-pink-300 hover:from-pink-400 hover:via-purple-400 hover:to-pink-400 rounded-full px-6 py-3 shadow-lg">
+          <a id="content-cta-button" href="#0" class="btn transition duration-300 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-400 via-purple-400 to-pink-400 hover:from-pink-500 hover:via-purple-500 hover:to-pink-500 rounded-full px-6 py-3 shadow-lg backdrop-filter backdrop-blur-sm bg-opacity-70">
             Ascend Now
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-300 ease-in-out ml-2 text-purple-700">→</span>
           </a>
