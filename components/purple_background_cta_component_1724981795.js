@@ -35,7 +35,7 @@
           <div class="flex" id="content-body-container">
               Harness the power of the high seas and pirate's cunning. From cutlasses forged in Davy Jones' locker to enchanted spyglasses, we offer the ultimate booty for the daring buccaneer.
             </p>
-            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/9fd9473d745f4ca096b2b3841b5e2eba.jpeg" alt="Cosmic Warrior" class="w-full h-auto mb-8 rounded-lg" />
+            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/719c8239b3dd442e8b2c673a827ab4d0.jpeg" alt="Cosmic Warrior" class="w-full h-auto mb-8 rounded-lg" />
             <div id="santa-email-form" class="mt-8 bg-white bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
               <h3 class="text-2xl font-bold text-white mb-4">Send a Message in a Bottle</h3>
               <form @submit.prevent="submitToSanta" class="space-y-4">
