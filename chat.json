@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements or characteristics do you want the cyborg ninja image to feature?\", \"option1\": \"High-tech armor and weapons\", \"option2\": \"Traditional ninja elements with a cyborg twist\"}, {\"question 2\": \"Would you like the cyborg ninja to have a specific pose or action in the image?\", \"option1\": \"In a battle stance\", \"option2\": \"In a stealthy position\"}], \"input_token_count\": 612, \"output_token_count\": 100, \"time_taken\": \"0:00:01.322172\"}",
+        "message_id": "guest30082024044620",
+        "timestamp": "30082024044624",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I'll change the picture to a cyborg ninja.",
         "message_id": "guest30082024044620",
