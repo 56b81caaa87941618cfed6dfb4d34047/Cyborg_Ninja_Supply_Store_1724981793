@@ -42,5 +42,11 @@
         "content": "Sure, I will add an email form for Santa.",
         "timestamp": "30082024021517",
         "message_id": "guest30082024021516"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What information do you want to collect in the email form?\", \"option1\": \"Recipient's name and email address\", \"option2\": \"Message content and sender's email address\"}, {\"question 2\": \"How would you like the email form to be designed? \", \"option1\": \"Simple and minimalistic\", \"option2\": \"Colorful and engaging with animations\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.346175\"}",
+        "timestamp": "30082024021522",
+        "message_id": "guest30082024021516"
     }
 ]
