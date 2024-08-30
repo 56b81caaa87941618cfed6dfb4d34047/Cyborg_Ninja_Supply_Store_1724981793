@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements would you like included in the turtle-themed image?\", \"option1\": \"A cartoon turtle design\", \"option2\": \"A realistic turtle depiction\"}, {\"question 2\": \"Do you want the colors to match a specific turtle species or a more generic turtle palette?\", \"option1\": \"Match a specific species\", \"option2\": \"Generic turtle colors\"}], \"input_token_count\": 649, \"output_token_count\": 90, \"time_taken\": \"0:00:01.340889\"}",
+        "message_id": "guest30082024054529",
+        "timestamp": "30082024054535",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on making the image turtle themed.",
         "message_id": "guest30082024054529",
