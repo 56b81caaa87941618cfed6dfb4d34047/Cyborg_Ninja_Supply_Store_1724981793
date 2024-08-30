@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: change the image to a hadoken fireball\nAI: Okay, I'll change the image to a hadoken fireball.\nAI: Sure, I will add an email form for Santa.\nUser: add an email form to santa\nAI: Sure, I'm adding a hadoken button as requested.\nUser: add a hadoken button\n\nThis is the user's current request of changes to be made:\nchange the image to a hadoken fireball"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn their conversation, the user requested the addition of a hadoken button to a project. The AI acknowledged the request by saying, \"Sure, I'm adding a hadoken button as requested.\" Following this, the AI asked the user to provide more details about the project by saying, \"Can you describe the project a bit more?\" The AI confirmed its training on data up to October 2023, indicating its limitations in knowledge about any developments after that date.\nAI: Sure, I'll change the image to a hadoken fireball.\nUser: change the image to a hadoken fireball\nAI: Okay, I'll change the image to a hadoken fireball.\nAI: Sure, I will add an email form for Santa.\nUser: add an email form to santa\n\nThis is the user's current request of changes to be made:\nchange the image to be a kamehameha"
     }
 ]
