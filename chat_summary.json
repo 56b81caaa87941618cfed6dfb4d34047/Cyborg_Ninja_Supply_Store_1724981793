@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I\u2019m changing the text to be pirate themed now!",
+        "message_id": "guest30082024023721",
+        "timestamp": "30082024023723",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the text to be pirate themed",
+        "message_id": "guest30082024023721",
+        "timestamp": "30082024023722",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the text to be pirate themed",
+        "message_id": "guest30082024023721",
+        "timestamp": "30082024023722",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the text to be pirate themed",
+        "message_id": "guest30082024023721",
+        "timestamp": "30082024023722",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will transform all text to a pirate ninja theme.",
+        "message_id": "guest30082024022338",
+        "timestamp": "30082024022339",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add Kamehameha image\", \"checked\": true}, {\"feature\": \"Implement a character selector\", \"checked\": false}, {\"feature\": \"Add sound effects for button presses\", \"checked\": false}, {\"feature\": \"Create a battle mode with button combos\", \"checked\": false}, {\"feature\": \"Include animated backgrounds for dynamic effect\", \"checked\": false}], \"input_token_count\": 395, \"output_token_count\": 90, \"time_taken\": \"0:00:02.541606\"}",
         "message_id": "guest30082024022251",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What size should the hadoken fireball image be on the app?\", \"option1\": \"Small\", \"option2\": \"Large\"}, {\"question 2\": \"Where would you like the hadoken fireball image to be positioned in the app?\", \"option1\": \"Center\", \"option2\": \"Top corner\"}], \"input_token_count\": 363, \"output_token_count\": 80, \"time_taken\": \"0:00:01.209112\"}",
-        "message_id": "guest30082024022131",
-        "timestamp": "30082024022137",
-        "component_file_name": "purple_header_component_1724981795",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll change the image to a hadoken fireball.",
-        "message_id": "guest30082024022131",
-        "timestamp": "30082024022132",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "change the image to a hadoken fireball",
-        "message_id": "guest30082024022131",
-        "timestamp": "30082024022131",
-        "component_file_name": "purple_header_component_1724981795",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll change the image to a hadoken fireball.",
-        "message_id": "guest30082024021559",
-        "timestamp": "30082024021600",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an email input field for user input\", \"checked\": true}, {\"feature\": \"Include a subject line for the email\", \"checked\": false}, {\"feature\": \"Attach a send button with functionality\", \"checked\": true}, {\"feature\": \"Show a confirmation message upon sending the email\", \"checked\": false}, {\"feature\": \"Display error messages for incomplete forms\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 96, \"time_taken\": \"0:00:01.291796\"}",
-        "message_id": "guest30082024021516",
-        "timestamp": "30082024021529",
-        "component_file_name": "purple_background_cta_component_1724981795",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "The user requested the addition of an email form for Santa, and the AI confirmed it would be done. The user was then presented with a set of questions regarding the email form's content, asking what information to collect\u2014specifically, the recipient's name and email address, or the message content and sender's email address\u2014as well as the desired design style: simple and minimalistic or colorful and engaging with animations. The AI generated responses to further enhance the project.\n\nAdditionally, the user was given a checklist of features to consider for a hadoken functionality, highlighting two features checked as true: implementing animations for the hadoken button press and displaying a score counter for successful hadoken attempts. The user was posed further questions to define the hadoken button's actions\u2014whether it should execute a special attack animation or trigger a sound effect\u2014and the design, choosing between a circular button with a glowing effect or a square button with traditional martial arts motifs. The AI noted the user's intention to add the hadoken button and requested more project details for clarification.",
-        "timestamp": "30082024022304",
-        "message_id": "guest30082024022251"
+        "content": "The conversation began with the user requesting an image change to a hadoken fireball, to which the AI responded affirmatively, stating, \"Sure, I'll change the image to a hadoken fireball.\" Following this, the AI prompted the user with two questions regarding the hadoken fireball image size and positioning options. The user was given the choices of \"Small\" or \"Large\" for size and \"Center\" or \"Top corner\" for positioning. \n\nSubsequently, the AI provided a checklist of additional features for the app, indicating various elements such as adding an email input field and including a send button. The user requested to add an email form for Santa, and the AI confirmed, \"Sure, I will add an email form for Santa.\" The user was again presented with questions about the email form design and information to be collected, offering options related to recipient details and design style. \n\nContinuing, the conversation included another checklist where the user was offered features like a combo training feature for hadoken moves and animations for the hadoken button press. The AI acknowledged adding a hadoken button as per the user's request and asked for further details by saying, \"Can you describe the project a bit more?\" This led to a structured dialog where various options and implementations were discussed to enhance the app's functionality.",
+        "timestamp": "30082024023722",
+        "message_id": "guest30082024023721"
     }
 ]
