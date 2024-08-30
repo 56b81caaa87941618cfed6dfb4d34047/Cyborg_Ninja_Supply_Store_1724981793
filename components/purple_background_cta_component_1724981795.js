@@ -1,8 +1,3 @@
-<!-- 
-INSTRUCTION: Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
-INSTRUCTION: It is centered on the page and includes a gradient-based title, a subtitle, a paragraph of text, and a button with a gradient background.
--->
-
 <template>
   <section id="cta-section-container">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -43,25 +38,27 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             <p id="content-body" class="flex-1 text-lg mb-8 text-pink-50">
               Harness the power of celestial energies and cutting-edge tech. From stardust-infused blades to quantum stealth devices, we offer the ultimate arsenal for the cosmic cyber-warrior.
             </p>
-          <div id="santa-email-form" class="mt-8 bg-white bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
-            <h3 class="text-2xl font-bold text-white mb-4">Email Santa</h3>
-            <form @submit.prevent="submitToSanta" class="space-y-4">
-              <div>
-                <label for="name" class="block text-sm font-medium text-white">Your Name</label>
-                <input type="text" id="name" v-model="santaForm.name" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
-              </div>
-              <div>
-                <label for="email" class="block text-sm font-medium text-white">Your Email</label>
-                <input type="email" id="email" v-model="santaForm.email" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
-              </div>
-              <div>
-                <label for="message" class="block text-sm font-medium text-white">Your Message to Santa</label>
-                <textarea id="message" v-model="santaForm.message" rows="4" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required></textarea>
-              </div>
-              <button type="submit" class="w-full bg-gradient-to-r from-red-500 to-green-500 hover:from-red-600 hover:to-green-600 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:scale-105">
-                Send to Santa
-              </button>
-            </form>
+            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/9fd9473d745f4ca096b2b3841b5e2eba.jpeg" alt="Cosmic Warrior" class="w-full h-auto mb-8 rounded-lg" />
+            <div id="santa-email-form" class="mt-8 bg-white bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
+              <h3 class="text-2xl font-bold text-white mb-4">Email Santa</h3>
+              <form @submit.prevent="submitToSanta" class="space-y-4">
+                <div>
+                  <label for="name" class="block text-sm font-medium text-white">Your Name</label>
+                  <input type="text" id="name" v-model="santaForm.name" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
+                </div>
+                <div>
+                  <label for="email" class="block text-sm font-medium text-white">Your Email</label>
+                  <input type="email" id="email" v-model="santaForm.email" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
+                </div>
+                <div>
+                  <label for="message" class="block text-sm font-medium text-white">Your Message to Santa</label>
+                  <textarea id="message" v-model="santaForm.message" rows="4" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required></textarea>
+                </div>
+                <button type="submit" class="w-full bg-gradient-to-r from-red-500 to-green-500 hover:from-red-600 hover:to-green-600 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:scale-105">
+                  Send to Santa
+                </button>
+              </form>
+            </div>
           </div>
         </div>
       </div>
