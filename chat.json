@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific action do you want the hadoken button to perform when pressed?\", \"option1\": \"Execute a special attack animation\", \"option2\": \"Trigger a sound effect\"}, {\"question 2\": \"How do you envision the design of the hadoken button?\", \"option1\": \"A circular button with a glowing effect\", \"option2\": \"A square button with traditional martial arts motifs\"}], \"input_token_count\": 288, \"output_token_count\": 95, \"time_taken\": \"0:00:01.847673\"}",
+        "message_id": "guest30082024021339",
+        "timestamp": "30082024021345",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm adding a hadoken button as requested.",
         "message_id": "guest30082024021339",
