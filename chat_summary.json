@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What size should the hadoken fireball image be on the app?\", \"option1\": \"Small\", \"option2\": \"Large\"}, {\"question 2\": \"Where would you like the hadoken fireball image to be positioned in the app?\", \"option1\": \"Center\", \"option2\": \"Top corner\"}], \"input_token_count\": 363, \"output_token_count\": 80, \"time_taken\": \"0:00:01.209112\"}",
+        "message_id": "guest30082024022131",
+        "timestamp": "30082024022137",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll change the image to a hadoken fireball.",
+        "message_id": "guest30082024022131",
+        "timestamp": "30082024022132",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to a hadoken fireball",
         "message_id": "guest30082024022131",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'm adding a hadoken button as requested.",
-        "message_id": "guest30082024021339",
-        "timestamp": "30082024021340",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a hadoken button",
-        "message_id": "guest30082024021339",
-        "timestamp": "30082024021339",
-        "component_file_name": "purple_background_cta_component_1724981795",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "30082024022131",
+        "content": "In their conversation, the user requested the addition of a hadoken button to a project. The AI acknowledged the request by saying, \"Sure, I'm adding a hadoken button as requested.\" Following this, the AI asked the user to provide more details about the project by saying, \"Can you describe the project a bit more?\" The AI confirmed its training on data up to October 2023, indicating its limitations in knowledge about any developments after that date.",
+        "timestamp": "30082024022137",
         "message_id": "guest30082024022131"
     }
 ]
