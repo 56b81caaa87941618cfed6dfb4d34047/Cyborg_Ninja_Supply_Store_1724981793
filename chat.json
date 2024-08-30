@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific sections of the app do you want to have pirate-themed text?\", \"option1\": \"All sections\", \"option2\": \"Only certain sections, like headings and buttons\"}, {\"question 2\": \"Do you have any particular pirate phrases or vocabulary you'd like incorporated into the text?\", \"option1\": \"Yes, I have specific phrases\", \"option2\": \"No, I just want general pirate slang\"}], \"input_token_count\": 619, \"output_token_count\": 99, \"time_taken\": \"0:00:06.227138\"}",
+        "message_id": "guest30082024024140",
+        "timestamp": "30082024024152",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm working on changing the text to pirated theme.",
         "message_id": "guest30082024024140",
