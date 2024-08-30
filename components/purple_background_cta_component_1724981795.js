@@ -43,11 +43,26 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             <p id="content-body" class="flex-1 text-lg mb-8 text-pink-50">
               Harness the power of celestial energies and cutting-edge tech. From stardust-infused blades to quantum stealth devices, we offer the ultimate arsenal for the cosmic cyber-warrior.
             </p>
+          <div id="santa-email-form" class="mt-8 bg-white bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
+            <h3 class="text-2xl font-bold text-white mb-4">Email Santa</h3>
+            <form @submit.prevent="submitToSanta" class="space-y-4">
+              <div>
+                <label for="name" class="block text-sm font-medium text-white">Your Name</label>
+                <input type="text" id="name" v-model="santaForm.name" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
+              </div>
+              <div>
+                <label for="email" class="block text-sm font-medium text-white">Your Email</label>
+                <input type="email" id="email" v-model="santaForm.email" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required>
+              </div>
+              <div>
+                <label for="message" class="block text-sm font-medium text-white">Your Message to Santa</label>
+                <textarea id="message" v-model="santaForm.message" rows="4" class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white" required></textarea>
+              </div>
+              <button type="submit" class="w-full bg-gradient-to-r from-red-500 to-green-500 hover:from-red-600 hover:to-green-600 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:scale-105">
+                Send to Santa
+              </button>
+            </form>
           </div>
-          <a id="content-cta-button" href="#0" class="btn transition duration-300 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-400 via-purple-400 to-pink-400 hover:from-pink-500 hover:via-purple-500 hover:to-pink-500 rounded-full px-6 py-3 shadow-lg backdrop-filter backdrop-blur-sm bg-opacity-70">
-            Ascend Now
-            <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-300 ease-in-out ml-2 text-purple-700">→</span>
-          </a>
         </div>
       </div>
     </div>
@@ -60,8 +75,23 @@ export default {
   data() {
     return {
       expanded: false,
-      tab: null
+      tab: null,
+      santaForm: {
+        name: '',
+        email: '',
+        message: ''
+      }
     };
+  },
+  methods: {
+    // Santa form submission method
+    submitToSanta() {
+      console.log('Sending to Santa:', this.santaForm);
+      // Add your form submission logic here
+      // Reset form after submission
+      this.santaForm = { name: '', email: '', message: '' };
+    }
+    // End of Santa form submission method
   }
 };
 </script>
