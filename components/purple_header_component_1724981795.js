@@ -18,7 +18,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
                 href="Gear.html"
               >
-                Shell Accessories
+                Booty and Plunder
               </a>
             </li>
             <li>
@@ -27,7 +27,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
                 href="Upgrades.html"
               >
-                Shell Upgrades
+                Ship Upgrades
               </a>
             </li>
             <li>
@@ -36,7 +36,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
                 href="Training.html"
               >
-                Ninja Training
+                Swashbucklin' Training
               </a>
             </li>
             <li>
@@ -45,7 +45,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
                 href="Missions.html"
               >
-                Sewer Missions
+                High Seas Missions
               </a>
             </li>
             <li>
@@ -54,7 +54,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
                 href="Support.html"
               >
-                Pizza Support
+                Grog Support
               </a>
             </li>
           </ul>
@@ -68,7 +68,7 @@
               class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-blue-200 hover:text-white"
               href="signin.html"
             >
-              Enter Shell
+              Board Ship
             </a>
           </li>
           <li class="ml-6">
@@ -77,7 +77,7 @@
               class="btn-sm transition duration-150 ease-in-out w-full group relative text-white hover:text-blue-200 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 rounded-full px-4 py-2 shadow-lg"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Join Turtle Squad <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-blue-200">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Join Pirate Crew <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-blue-200">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -111,19 +111,19 @@
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 bg-opacity-70 bg-blue-900 backdrop-filter backdrop-blur-lg">
               <li>
-                <a id="mobile-Gear-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Gear.html">Shell Accessories</a>
+                <a id="mobile-Gear-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Gear.html">Booty and Plunder</a>
               </li>
               <li>
-                <a id="mobile-Upgrades-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Upgrades.html">Shell Upgrades</a>
+                <a id="mobile-Upgrades-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Upgrades.html">Ship Upgrades</a>
               </li>
               <li>
-                <a id="mobile-Training-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Training.html">Ninja Training</a>
+                <a id="mobile-Training-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Training.html">Swashbucklin' Training</a>
               </li>
               <li>
-                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Missions.html">Sewer Missions</a>
+                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Missions.html">High Seas Missions</a>
               </li>
               <li>
-                <a id="mobile-Support-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Support.html">Pizza Support</a>
+                <a id="mobile-Support-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Support.html">Grog Support</a>
               </li>
             </ul>
           </nav>
