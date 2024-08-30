@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What information do you want to collect in the email form?\", \"option1\": \"Recipient's name and email address\", \"option2\": \"Message content and sender's email address\"}, {\"question 2\": \"How would you like the email form to be designed? \", \"option1\": \"Simple and minimalistic\", \"option2\": \"Colorful and engaging with animations\"}], \"input_token_count\": 311, \"output_token_count\": 92, \"time_taken\": \"0:00:01.346175\"}",
         "timestamp": "30082024021522",
         "message_id": "guest30082024021516"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an email input field for user input\", \"checked\": true}, {\"feature\": \"Include a subject line for the email\", \"checked\": false}, {\"feature\": \"Attach a send button with functionality\", \"checked\": true}, {\"feature\": \"Show a confirmation message upon sending the email\", \"checked\": false}, {\"feature\": \"Display error messages for incomplete forms\", \"checked\": true}], \"input_token_count\": 265, \"output_token_count\": 96, \"time_taken\": \"0:00:01.291796\"}",
+        "timestamp": "30082024021529",
+        "message_id": "guest30082024021516"
     }
 ]
