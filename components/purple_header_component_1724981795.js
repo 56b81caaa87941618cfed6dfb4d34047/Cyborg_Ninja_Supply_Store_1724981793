@@ -5,7 +5,7 @@
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
           <a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip">
-            <img id="logo-image" class="max-w-none" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/32230010a977402a9ecc5c6a9b7336cf.jpeg" width="38" height="38" alt="Stellar">
+            <img id="logo-image" class="max-w-none" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/47d5e053875848cf91ef7130e51374c7.jpeg" width="38" height="38" alt="Stellar">
           </a>
         </div>
 
