@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What size should the hadoken fireball image be on the app?\", \"option1\": \"Small\", \"option2\": \"Large\"}, {\"question 2\": \"Where would you like the hadoken fireball image to be positioned in the app?\", \"option1\": \"Center\", \"option2\": \"Top corner\"}], \"input_token_count\": 363, \"output_token_count\": 80, \"time_taken\": \"0:00:01.209112\"}",
+        "message_id": "guest30082024022131",
+        "timestamp": "30082024022137",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the image to a hadoken fireball.",
         "message_id": "guest30082024022131",
