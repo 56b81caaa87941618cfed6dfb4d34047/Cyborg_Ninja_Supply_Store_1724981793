@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements of the app's design do you want to apply the blue steel color scheme to?\", \"option1\": \"Backgrounds and buttons\", \"option2\": \"Text and icons\"}, {\"question 2\": \"Do you have a specific shade of blue steel in mind, or would you like suggestions?\", \"option1\": \"I have a specific shade\", \"option2\": \"I would like suggestions\"}], \"input_token_count\": 271, \"output_token_count\": 99, \"time_taken\": \"0:00:01.911534\"}",
+        "message_id": "guest30082024044219",
+        "timestamp": "30082024044224",
+        "component_file_name": "purple_header_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm changing the color scheme to blue steel.",
         "message_id": "guest30082024044219",
