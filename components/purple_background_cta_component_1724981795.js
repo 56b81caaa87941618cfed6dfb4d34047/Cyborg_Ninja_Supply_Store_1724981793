@@ -1,12 +1,12 @@
 <template>
   <section id="cta-section-container">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden bg-blue-500 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg border border-blue-300 border-opacity-20">
+      <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden bg-gradient-to-br from-pink-500 to-purple-700 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg border border-pink-300 border-opacity-20">
 
         <!-- Radial gradient -->
         <div id="radial-gradient" class="absolute flex items-center justify-center top-0 -translate-y-1/2 left-1/2 -translate-x-1/2 pointer-events-none -z-10 w-1/2 aspect-square" aria-hidden="true">
-          <div id="radial-gradient-outer" class="bg-blue-600 absolute inset-0 translate-z-0 rounded-full blur-[120px] opacity-60"></div>
-          <div id="radial-gradient-inner" class="absolute w-1/3 h-1/3 translate-z-0 rounded-full blur-[60px] bg-blue-500"></div>
+          <div id="radial-gradient-outer" class="bg-pink-600 absolute inset-0 translate-z-0 rounded-full blur-[120px] opacity-60"></div>
+          <div id="radial-gradient-inner" class="absolute w-1/3 h-1/3 translate-z-0 rounded-full blur-[60px] bg-purple-500"></div>
         </div>
 
         <!-- Blurred shape -->
@@ -14,8 +14,8 @@
           <svg xmlns="http://www.w3.org/2000/svg" width="434" height="427">
             <defs>
               <linearGradient id="bs5-a" x1="19.609%" x2="50%" y1="14.544%" y2="100%">
-                <stop offset="0%" stop-color="#3B82F6" />
-                <stop offset="100%" stop-color="#2563EB" stop-opacity="0" />
+                <stop offset="0%" class="#A855F7" />
+                <stop offset="100%" class="6366F1" stop-opacity="0" />
               </linearGradient>
             </defs>
             <path fill="url(#bs5-a)" fill-rule="evenodd" d="m0 0 461 369-284 58z" transform="matrix(1 0 0 -1 0 427)" />
