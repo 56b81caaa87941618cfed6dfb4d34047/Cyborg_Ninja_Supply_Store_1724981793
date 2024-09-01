@@ -1088,6 +1088,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I\u2019ll get the background changed to blue.",
+        "message_id": "guest01092024060011",
+        "timestamp": "01092024060012",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background to blue",
         "message_id": "guest01092024060011",
