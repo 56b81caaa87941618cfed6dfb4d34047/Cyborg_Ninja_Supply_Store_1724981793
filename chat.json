@@ -1086,5 +1086,14 @@
         "timestamp": "1724981795",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "change the background to blue",
+        "message_id": "guest01092024060011",
+        "timestamp": "01092024060011",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
     }
 ]
