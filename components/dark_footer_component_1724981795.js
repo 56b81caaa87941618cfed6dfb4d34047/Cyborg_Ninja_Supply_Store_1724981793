@@ -28,8 +28,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-slate-400">
-                CCCCCCCCCCC
-                <span class="text-slate-500">-</span> CCCCCCCCCCC
+                BBBBBBB
+                <span class="text-slate-500">-</span> BBBBBBB
             </div>
             <!-- Social links -->
             <ul id="footer-social-links" class="flex">
@@ -94,7 +94,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400"
           >
-            CCCCCCCCCCC
+            BBBBBBB
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
               <a
@@ -102,7 +102,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -110,7 +110,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -118,7 +118,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -126,7 +126,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
           </ul>
         </div>
@@ -134,7 +134,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- 3rd block -->
         <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">
-            CCCCCCCCCCC
+            BBBBBBB
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
               <a
@@ -142,7 +142,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -150,7 +150,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -158,7 +158,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -166,7 +166,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
           </ul>
         </div>
@@ -174,7 +174,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- 4th block -->
         <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">
-            CCCCCCCCCCC
+            BBBBBBB
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
               <a
@@ -182,7 +182,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -190,7 +190,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -198,7 +198,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
             <li>
               <a
@@ -206,7 +206,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                CCCCCCCCCCC
+                BBBBBBB
             </li>
           </ul>
         </div>
