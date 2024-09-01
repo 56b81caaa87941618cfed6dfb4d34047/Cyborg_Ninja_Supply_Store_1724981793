@@ -27,6 +27,7 @@
           <div id="content-subtitle" class="flex">
             <p class="text-lg text-green-300 mb-4">Cowabunga, Dudes! Shell-ebrate the Turtle Power!</p>
           </div>
+          </div>
           <div class="flex" id="content-title-container">
             <h2 class="h2 font-bold text-4xl md:text-5xl text-white mb-4">
               Radical Adventures in the Half-Shell
@@ -36,7 +37,7 @@
             <p class="text-xl text-green-100 mb-8">
               From sewer-surfing to pizza-powered missions, we've got the gnarliest gear for every turtle-tastic situation. Whether you're a master of ninjutsu or just love to party, dude, we've got your shell covered!
             </p>
-            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/ae7810a9fc3a4375adfcd8e63dec1d84.jpeg" alt="New Image" class="w-full h-auto mb-8 rounded-lg" />
+            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Cyborg_Ninja_Supply_Store_1724981793/main/images/719c8239b3dd442e8b2c673a827ab4d0.jpeg" alt="Cyborg Ninja" class="w-full h-auto mb-8 rounded-lg" />
             <div id="santa-email-form" class="mt-8 bg-green-800 bg-opacity-20 rounded-lg p-6 backdrop-filter backdrop-blur-sm">
               <h3 class="text-2xl font-bold text-green-300 mb-4">Send a Message to Master Splinter</h3>
               <form @submit.prevent="submitToSanta" class="space-y-4">
