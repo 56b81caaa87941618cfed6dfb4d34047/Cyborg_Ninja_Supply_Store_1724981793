@@ -1088,6 +1088,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll change all of the text to BBBBBBB.",
+        "message_id": "guest01092024065321",
+        "timestamp": "01092024065323",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change all of the text to BBBBBBB",
         "message_id": "guest01092024065321",
