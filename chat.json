@@ -1088,6 +1088,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific parts of the app do you want the text 'BBBBBBB' to be applied to?\", \"option1\": \"All sections including headings and buttons\", \"option2\": \"Only the main content area\"}, {\"question 2\": \"Would you like the text style or font to be altered along with the change to 'BBBBBBB'?\", \"option1\": \"Yes, I'd like a different font style\", \"option2\": \"No, keep the current font style\"}], \"input_token_count\": 609, \"output_token_count\": 112, \"time_taken\": \"0:00:01.060985\"}",
+        "message_id": "guest01092024065321",
+        "timestamp": "01092024065329",
+        "component_file_name": "dark_footer_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change all of the text to BBBBBBB.",
         "message_id": "guest01092024065321",
