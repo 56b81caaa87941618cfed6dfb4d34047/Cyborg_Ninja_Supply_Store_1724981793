@@ -1,6 +1,6 @@
 <template>
   <header class="w-full z-30" id="header-section-container">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-opacity-30 bg-blue-900 backdrop-filter backdrop-blur-lg">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-opacity-30 bg-pink-900 backdrop-filter backdrop-blur-lg">
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
@@ -15,7 +15,7 @@
             <li>
               <a
                 id="Gear-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="Gear.html"
               >
                 Shell Accessories
@@ -24,7 +24,7 @@
             <li>
               <a
                 id="Upgrades-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="Upgrades.html"
               >
                 Shell Upgrades
@@ -33,7 +33,7 @@
             <li>
               <a
                 id="Training-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="Training.html"
               >
                 Ninja Training
@@ -42,7 +42,7 @@
             <li>
               <a
                 id="Missions-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="Missions.html"
               >
                 Sewer Missions
@@ -51,7 +51,7 @@
             <li>
               <a
                 id="Support-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-blue-200 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="Support.html"
               >
                 Pizza Support
@@ -65,7 +65,7 @@
           <li>
             <a
               id="sign-in-link"
-              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-blue-200 hover:text-white"
+              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-pink-200 hover:text-white"
               href="signin.html"
             >
               Enter Shell
@@ -74,10 +74,10 @@
           <li class="ml-6">
             <a
               id="sign-up-link"
-              class="btn-sm transition duration-150 ease-in-out w-full group relative text-white hover:text-blue-200 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 rounded-full px-4 py-2 shadow-lg"
+              class="btn-sm transition duration-150 ease-in-out w-full group relative text-white hover:text-pink-200 bg-gradient-to-r from-purple-600 to-pink-500 hover:from-purple-500 hover:to-pink-400 rounded-full px-4 py-2 shadow-lg"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Join Turtle Squad <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-blue-200">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Join Turtle Squad <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-pink-200">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -93,7 +93,7 @@
             :aria-expanded="expanded"
           >
             <span class="sr-only">Menu</span>
-            <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-blue-200 hover:text-white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+            <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-pink-200 hover:text-white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <rect y="2" width="20" height="2" rx="1" />
               <rect y="9" width="20" height="2" rx="1" />
               <rect y="16" width="20" height="2" rx="1" />
@@ -109,21 +109,21 @@
             @keydown.escape.window="expanded = false"
             x-cloak
           >
-            <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 bg-opacity-70 bg-blue-900 backdrop-filter backdrop-blur-lg">
+            <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 bg-opacity-70 bg-pink-900 backdrop-filter backdrop-blur-lg">
               <li>
-                <a id="mobile-Gear-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Gear.html">Shell Accessories</a>
+                <a id="mobile-Gear-link" class="flex font-medium text-sm py-1.5 text-pink-200 hover:text-white" href="Gear.html">Shell Accessories</a>
               </li>
               <li>
-                <a id="mobile-Upgrades-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Upgrades.html">Shell Upgrades</a>
+                <a id="mobile-Upgrades-link" class="flex font-medium text-sm py-1.5 text-pink-200 hover:text-white" href="Upgrades.html">Shell Upgrades</a>
               </li>
               <li>
-                <a id="mobile-Training-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Training.html">Ninja Training</a>
+                <a id="mobile-Training-link" class="flex font-medium text-sm py-1.5 text-pink-200 hover:text-white" href="Training.html">Ninja Training</a>
               </li>
               <li>
-                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Missions.html">Sewer Missions</a>
+                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-pink-200 hover:text-white" href="Missions.html">Sewer Missions</a>
               </li>
               <li>
-                <a id="mobile-Support-link" class="flex font-medium text-sm py-1.5 text-blue-200 hover:text-white" href="Support.html">Pizza Support</a>
+                <a id="mobile-Support-link" class="flex font-medium text-sm py-1.5 text-pink-200 hover:text-white" href="Support.html">Pizza Support</a>
               </li>
             </ul>
           </nav>
