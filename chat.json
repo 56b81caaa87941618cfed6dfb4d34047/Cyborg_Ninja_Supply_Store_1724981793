@@ -1088,6 +1088,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade of blue do you envision for the background?\", \"option1\": \"Light Blue\", \"option2\": \"Dark Blue\"}, {\"question 2\": \"Would you prefer a solid blue background or a patterned one?\", \"option1\": \"Solid Color\", \"option2\": \"Patterned Background\"}], \"input_token_count\": 605, \"output_token_count\": 77, \"time_taken\": \"0:00:00.823819\"}",
+        "message_id": "guest01092024060011",
+        "timestamp": "01092024060018",
+        "component_file_name": "purple_background_cta_component_1724981795",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019ll get the background changed to blue.",
         "message_id": "guest01092024060011",
