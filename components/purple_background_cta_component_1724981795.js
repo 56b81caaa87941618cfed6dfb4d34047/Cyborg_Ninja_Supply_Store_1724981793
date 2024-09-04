@@ -1,5 +1,5 @@
 <template>
-  <section id="cta-section-container">
+  <section id="cta-section-container" style="min-height: 390px">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6">
       <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-[3rem] overflow-hidden bg-gradient-to-br from-pink-500 to-purple-700 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg border border-pink-300 border-opacity-20">
 
