@@ -8,12 +8,12 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 -->
 
 <template>
-  <footer id="footer-section-container" style="min-height: 470px">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+  <footer id="footer-section-container" class="bg-gradient-to-r from-purple-900 to-pink-800 bg-opacity-70 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg" style="min-height: 470px">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
         <!-- 1st block -->
-        <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none">
+        <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none bg-opacity-30 backdrop-filter backdrop-blur-sm rounded-lg shadow-md p-6">
           <div class="h-full flex flex-col sm:flex-row lg:flex-col justify-between">
             <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
               <div class="mb-4">
@@ -27,16 +27,16 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
-              <div id="footer-copyright" class="text-sm text-slate-400">
-                CCCCCCCCCCCCCC
-                <span class="text-slate-500">-</span> CCCCCCCCCCCCCC
-            </div>
+              <div id="footer-copyright" class="text-sm text-pink-200">
+                © 2023 CyberNinja Supplies. All rights reserved.
+                <span class="text-purple-300">-</span> Empowering Digital Warriors
+              </div>
             <!-- Social links -->
             <ul id="footer-social-links" class="flex">
               <li>
                 <a
                   id="footer-social-link-1"
-                  class="flex justify-center items-center transition duration-150 ease-in-out text-purple-500 hover:text-purple-400"
+                  class="flex justify-center items-center transition duration-150 ease-in-out text-pink-300 hover:text-purple-200"
                   href="#0"
                   aria-label="Twitter"
                 >
@@ -54,7 +54,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <li>
                 <a
                   id="footer-social-link-2"
-                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-purple-500 hover:text-purple-400"
+                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-pink-300 hover:text-purple-200"
                   href="#0"
                   aria-label="Dev.to"
                 >
@@ -69,7 +69,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <li>
                 <a
                   id="footer-social-link-3"
-                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-purple-500 hover:text-purple-400"
+                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-pink-300 hover:text-purple-200"
                   href="#0"
                   aria-label="Github"
                 >
@@ -89,125 +89,128 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 2nd block -->
-        <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
+        <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2 bg-opacity-30 backdrop-filter backdrop-blur-sm rounded-lg shadow-md p-6">
           <h6
             id="footer-block-2-title"
-            class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400"
+            class="text-sm font-medium mb-2 text-pink-200 hover:text-purple-300"
           >
-            CCCCCCCCCCCCCC
+            Products & Services
+          </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
               <a
-                id="footer-block-2-link-1 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-1"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Cyber Defense Tools
+              </a>
             <li>
               <a
-                id="footer-block-2-link-2 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-2"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Hacking Simulators
+              </a>
             <li>
               <a
-                id="footer-block-2-link-3 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-3"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Security Consulting
+              </a>
             <li>
               <a
-                id="footer-block-2-link-4 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-4"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Training Programs
+              </a>
           </ul>
         </div>
 
         <!-- 3rd block -->
-        <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">
-            CCCCCCCCCCCCCC
+        <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2 bg-opacity-30 backdrop-filter backdrop-blur-sm rounded-lg shadow-md p-6">
+          <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-pink-200">
+            Company
+          </h6>
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
               <a
                 id="footer-block-3-link-1"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                About Us
+              </a>
             <li>
               <a
                 id="footer-block-3-link-2"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Blog
+              </a>
             <li>
               <a
                 id="footer-block-3-link-3"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Careers
+              </a>
             <li>
               <a
                 id="footer-block-3-link-4"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Financial Statements
+              </a>
           </ul>
         </div>
 
         <!-- 4th block -->
-        <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">
-            CCCCCCCCCCCCCC
+        <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2 bg-opacity-30 backdrop-filter backdrop-blur-sm rounded-lg shadow-md p-6">
+          <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-pink-200">
+            Resources
+          </h6>
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
               <a
                 id="footer-block-4-link-1"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Community Forum
+              </a>
             <li>
               <a
                 id="footer-block-4-link-2"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Knowledge Base
+              </a>
             <li>
               <a
                 id="footer-block-4-link-3"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                FAQs
+              </a>
             <li>
               <a
                 id="footer-block-4-link-4"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-purple-200 hover:text-pink-300"
                 href="#0"
               >
-                CCCCCCCCCCCCCC
-            </li>
+                Support Center
+              </a>
           </ul>
         </div>
       </div>
